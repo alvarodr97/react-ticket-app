@@ -1,5 +1,5 @@
 ## Backend
-[Backend](https://github.com/alvarodr97/ticket-app-server)
+[Backend](https://github.com/alvarodr97/react-ticket-app-server)
 
 # Getting Started with Create React App
 
